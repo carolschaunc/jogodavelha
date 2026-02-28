@@ -20,7 +20,9 @@ O projeto permite a interação entre dois jogadores, utilizando lógica de prog
 
 ## 🛠️ Tecnologias utilizadas
 - Python 3
-- 
 
 ### ✔ Pré-requisitos
 - Python instalado no computador
+
+## 👩‍💻 Autora
+Carolina Chaves - Estudante de ADS
